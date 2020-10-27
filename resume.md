@@ -4,11 +4,11 @@ title: Resume
 permalink: /resume/
 ---
 
-## Education
+#### Education
 
 + B.E. in Computer Science from [Vemana IT](https://vemanait.edu.in/), batch of '17
 
-## Work
+#### Work
 
 + Developer Relations Engineer - [Setu](https://setu.co/) from 7/20
 
@@ -51,7 +51,7 @@ permalink: /resume/
 
   + Built the Maps API used to locate Petrol Pumps, Service centers, and 26 other types of establishments
 
-## Cerifications and Laurels
+#### Cerifications and Laurels
 
 + Hackathons
 
@@ -69,7 +69,7 @@ permalink: /resume/
 
   > [Big Data and Social Physics](https://verify.edx.org/cert/1eb13ea9ac3e422cb4db7978a1ef027a) - MITx
   
-## Technologies 
+#### Technologies 
 
 + Backend
 
@@ -95,11 +95,11 @@ permalink: /resume/
 
   > Kong, Tyk, Nginx, Sentry ...
 
-## Libraries, Frameworks and Packages I endorse
+#### Libraries, Frameworks and Packages I endorse
 
   > Passport.js, Mongoose, Express, Axios, HummusJS, Moment.js, morgan, Formik, Nuxt.js, JWT, jest, DraftJS ...
   
-## Projects
+#### Projects
 
 + [Goledger](https://github.com/nithinkashyapn/goledger) - `Go` - A complete implementation of Hyperledger in Go.
 
